@@ -1,1 +1,1 @@
-<a href="#"><img src="./assets/logo.png" width="100%" ></a>
+<a href="#"><img src="./assets/metodologie.gif" width="100%" ></a>
