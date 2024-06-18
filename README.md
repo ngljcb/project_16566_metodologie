@@ -66,4 +66,4 @@ For testing concrete classes, the "AssertJ" library is used due to its fluent in
 <a href="#"><img src="./assets/p6.png" width="100%" ></a>
 
 ## Documentation & Repository
-You can download the complete documentation <a href="documentation.pdf">here</a>, including detailed analysis. The repository is available <a href="https://github.com/ngljcb/project_16566_metodologie">here</a> for browsing all the project resources.
+You can download the complete documentation <a href="documentation.pdf">here</a>. The repository is available <a href="https://github.com/ngljcb/project_16566_metodologie">here</a>.
